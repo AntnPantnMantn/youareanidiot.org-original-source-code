@@ -1,7 +1,6 @@
 # READ THIS!
 - this is the source code of <a href="http://youareanidiot.org/">youareanidiot.org/</a> from 2004-2009.<br>
-- before 2010, when you wen't to <a href="http://youareanidiot.org/">youareanidiot.org/</a> and then backed-out-of/closed the tab, you were greeted with <b>the meaning of life</b><span style="font-size:9px;">(windows flying around your screen with a flash video singing beautifully to you about the fact that you are an idiot)</span>.
-
+- before 2010, when you wen't to <a href="http://youareanidiot.org/">youareanidiot.org/</a> and then backed-out-of/closed the tab, you were greeted with <b>the meaning of life</b> (windows flying around your screen with a flash video singing beautifully to you about the fact that you are an idiot).
 
 
 <br>
