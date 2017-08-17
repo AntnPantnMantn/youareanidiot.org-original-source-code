@@ -1,6 +1,7 @@
 # READ THIS!      (ALL OF IT!)
-- →→→→→ <b>this only works if you have popups and javascript enabled!</b> ←←←←←<br>
-- <b><u>running this program will require you to force quit your browser!</b></u> (you have been warned)<br>
+- <b>→→→→ you only really need to worry about "you-are-an-idiot-virus.html"! (simply download it and run it!)←←←←</b><br>
+- <b>→→→→ this only works if you have popups and javascript enabled!←←←←</b><br>
+- <b>→→→→running this program will require you to force quit your browser!</b> (you have been warned)←←←←<br>
 - <b>this "virus" will not do any harm to your computer:)</b><br>
 - works best in chrome :)<br>
 ↓read this if you need to↓
