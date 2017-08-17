@@ -3,7 +3,7 @@
 - <b><u>running this program will require you to force quit your browser!</b></u> (you have been warned)<br>
 - <b>this "virus" will not do any harm to your computer:)</b><br>
 - works best in chrome :)<br>
-<br>
+↓read this if you need to↓
 - this is the source code of <a href="http://youareanidiot.org/">youareanidiot.org/</a> from 2004-2009.<br>
 - before 2010, when you went to <a href="http://youareanidiot.org/">youareanidiot.org/</a> and then backed-out-of/closed the tab, you were greeted with <b>the meaning of life</b> (windows flying around your screen with a .SWF file flashing, displaying "you are an idiot!" while singing beautifully about the fact that you are an idiot).<br>
 - but now the windows flying around the screen doesn't happen any more if you go to the original site. :(<br>
