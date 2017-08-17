@@ -1,4 +1,4 @@
-# READ THIS!      (all of it)
+# READ THIS!      (<u>all of it</u>)
 - →→→→→ <b>this only works if you have popups and javascript enabled!</b> ←←←←←<br>
 - <b>running this program will require you to force quit your browser!</b><br>
 - works best in chrome :)<br>
