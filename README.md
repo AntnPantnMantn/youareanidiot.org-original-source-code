@@ -1,7 +1,7 @@
 # READ THIS!      (all of it)
+- →→→→→ <b>this only works if you have popups and javascript enabled!</b> ←←←←←<br>
 - this is the source code of <a href="http://youareanidiot.org/">youareanidiot.org/</a> from 2004-2009.<br>
 - before 2010, when you went to <a href="http://youareanidiot.org/">youareanidiot.org/</a> and then backed-out-of/closed the tab, you were greeted with <b>the meaning of life</b> (windows flying around your screen with a flash video singing beautifully to you about the fact that you are an idiot).<br>
-- →→→→→ <b>this only works if you have popups and javascript enabled!</b> ←←←←←
 -but now that doesn't happen any more :(<br>
 -soooooooo i dug around a bit on the <a href="https://archive.org/web/">way back machine</a> and gathered this source code to put on this repository.<br>
 <br>
