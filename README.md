@@ -1,6 +1,7 @@
 # READ THIS!      (ALL OF IT!)
 - →→→→→ <b>this only works if you have popups and javascript enabled!</b> ←←←←←<br>
-- <b>running this program will require you to force quit your browser!</b><br>
+- <b><u>running this program will require you to force quit your browser!</b></u> (you have been warned)<br>
+- <b>this "virus" will not do any harm to your computer:)</b><br>
 - works best in chrome :)<br>
 <br>
 - this is the source code of <a href="http://youareanidiot.org/">youareanidiot.org/</a> from 2004-2009.<br>
